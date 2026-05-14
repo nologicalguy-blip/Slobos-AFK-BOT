@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Highdyme.aternos.me:49706",
+    "ip": "Highdyme.aternos.me",
     "port": 49706,
     "version": "1.21.1"
   },
